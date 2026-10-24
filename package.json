@@ -1,0 +1,13 @@
+{
+  "name": "eksamen-arena",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check-content.mjs",
+    "test": "node --test "test/*.test.mjs""
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.6"
+  }
+}

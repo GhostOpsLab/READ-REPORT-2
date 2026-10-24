@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "title": "Eksamen Arena",
+    "prize": "Nuwe PS5 Speaker of Controller",
+    "term": "November 2026 eksamens"
+  },
+  "exams": [
+    {
+      "id": "afr",
+      "date": "2026-11-03",
+      "name": "Afrikaans HT",
+      "note": "Alle Taalleer en Spelling in albei handboeke (Via, Platinum) en die Afrikaanse studiegids Gr 7.",
+      "topics": [
+        {
+          "id": "afr-taalleer",
+          "name": "Taalleer (Via en Platinum)",
+          "file": null
+        },
+        {
+          "id": "afr-spelling",
+          "name": "Spelling",
+          "file": null
+        },
+        {
+          "id": "afr-studiegids",
+          "name": "Afrikaanse studiegids Gr 7",
+          "file": null
+        }
+      ]
+    },
+    {
+      "id": "wisk1",
+      "date": "2026-11-06",
+      "name": "Wiskunde V1",
+      "note": "Temas 1, 2, 6, 7, 8, 11, 12, 13, 14, 18, 19, 20, 21, 22.",
+      "topics": [
+        {
+          "id": "wisk-telgetalle",
+          "name": "Telgetalle",
+          "file": null,
+          "pages": "Tema 1"
+        },
+        {
+          "id": "wisk-eksponente",
+          "name": "Eksponente",
+          "file": null,
+          "pages": "Tema 2"
+        },
+        {
+          "id": "wisk-gewone-breuke",
+          "name": "Gewone breuke",
+          "file": "wisk-gewone-breuke.json",
+          "pages": "Tema 6"
+        },
+        {
+          "id": "wisk-desimale-breuke",
+          "name": "Desimale breuke",
+          "file": null,
+          "pages": "Tema 7"
+        },
+        {
+          "id": "wisk-patrone",
+          "name": "Patrone",
+          "file": null,
+          "pages": "Tema 11 en 19"
+        },
+        {
+          "id": "wisk-funksies",
+          "name": "Funksies",
+          "file": null,
+          "pages": "Tema 8, 12 en 20"
+        },
+        {
+          "id": "wisk-alg-uitdrukkings",
+          "name": "Algebraïese uitdrukkings",
+          "file": null,
+          "pages": "Tema 13 en 21"
+        },
+        {
+          "id": "wisk-alg-vergelykings",
+          "name": "Algebraïese vergelykings",
+          "file": null,
+          "pages": "Tema 14 en 22"
+        },
+        {
+          "id": "wisk-heelgetalle",
+          "name": "Heelgetalle",
+          "file": null,
+          "pages": "Tema 18"
+        }
+      ]
+    },
+    {
+      "id": "gesk",
+      "date": "2026-11-09",
+      "name": "SW Geskiedenis",
+      "note": "Geen aktiwiteite, kaarte, bronblokke of gevallestudies nie. Geskiedenisvaardighede word ook getoets.",
+      "topics": [
+        {
+          "id": "gesk-171-178",
+          "name": "Geskiedenis bl. 171 tot 178",
+          "file": null,
+          "pages": "bl. 171, 173, 174, 176, 178"
+        },
+        {
+          "id": "gesk-182-192",
+          "name": "Geskiedenis bl. 182 tot 192",
+          "file": null,
+          "pages": "bl. 182, 183, 184, 187, 188, 189, 192"
+        },
+        {
+          "id": "gesk-236-247",
+          "name": "Geskiedenis bl. 236 tot 247",
+          "file": null,
+          "pages": "bl. 236, 237, 238, 239, 245, 246, 247"
+        },
+        {
+          "id": "gesk-252-255",
+          "name": "Geskiedenis bl. 252 tot 255",
+          "file": null,
+          "pages": "bl. 252, 254, 255"
+        },
+        {
+          "id": "gesk-vaardighede",
+          "name": "Geskiedenisvaardighede",
+          "file": null
+        }
+      ]
+    },
+    {
+      "id": "ebw",
+      "date": "2026-11-11",
+      "name": "EBW",
+      "bring": "Sakrekenaar",
+      "note": "Geen aktiwiteite en gevallestudies nie.",
+      "topics": [
+        {
+          "id": "ebw-82-94",
+          "name": "EBW bl. 82 tot 94",
+          "file": null,
+          "pages": "bl. 82, 83, 84, 88, 89, 91, 92, 93, 94"
+        },
+        {
+          "id": "ebw-98-100",
+          "name": "EBW bl. 98 tot 100",
+          "file": null,
+          "pages": "bl. 98, 99, 100"
+        },
+        {
+          "id": "ebw-122-127",
+          "name": "EBW bl. 122 tot 127",
+          "file": null,
+          "pages": "bl. 122 tot 127"
+        },
+        {
+          "id": "ebw-130-136",
+          "name": "EBW bl. 130 tot 136",
+          "file": null,
+          "pages": "bl. 130 tot 133 en 136"
+        }
+      ]
+    },
+    {
+      "id": "tegn",
+      "date": "2026-11-12",
+      "name": "Tegnologie",
+      "note": "Geen bevoegdheidstake nie. Leer alle nuwe woorde.",
+      "topics": [
+        {
+          "id": "tegn-magnetisme",
+          "name": "Magnetisme en magnete",
+          "file": null,
+          "pages": "Kw3 Hoofstuk 6, bl. 114"
+        },
+        {
+          "id": "tegn-herwinning",
+          "name": "Die herwinning van materiale",
+          "file": null,
+          "pages": "Kw3 Hoofstuk 7, bl. 122 tot 124"
+        },
+        {
+          "id": "tegn-stroombane",
+          "name": "Eenvoudige elektriese stroombane en elektromagnete",
+          "file": null,
+          "pages": "Kw3 Hoofstuk 8, bl. 128, 130 tot 132"
+        },
+        {
+          "id": "tegn-krukke-katrolle",
+          "name": "Krukke en katrolle",
+          "file": null,
+          "pages": "Papiere"
+        },
+        {
+          "id": "tegn-noodsituasies",
+          "name": "Die verwerking van materiale vir noodsituasies",
+          "file": null,
+          "pages": "Kw4 Hoofstuk 10, bl. 162 tot 172"
+        },
+        {
+          "id": "tegn-woorde",
+          "name": "Nuwe woorde",
+          "file": null
+        }
+      ]
+    },
+    {
+      "id": "eng",
+      "date": "2026-11-13",
+      "name": "English FAL",
+      "note": "60 marks: Comprehension 20, Visual literacy 10, Summary 10, Language 20. Use the study guide and worksheets.",
+      "topics": [
+        {
+          "id": "eng-comprehension",
+          "name": "Comprehension",
+          "file": null
+        },
+        {
+          "id": "eng-visual",
+          "name": "Visual literacy",
+          "file": null
+        },
+        {
+          "id": "eng-summary",
+          "name": "Summary",
+          "file": null
+        },
+        {
+          "id": "eng-parts-of-speech",
+          "name": "Language: parts of speech",
+          "file": null
+        },
+        {
+          "id": "eng-tense-voice-speech",
+          "name": "Language: perfect tense, active and passive, direct and indirect speech",
+          "file": null
+        },
+        {
+          "id": "eng-punctuation",
+          "name": "Language: punctuation and apostrophes",
+          "file": null
+        },
+        {
+          "id": "eng-phrases-concord",
+          "name": "Language: phrases, clauses and concord",
+          "file": null
+        },
+        {
+          "id": "eng-spelling",
+          "name": "Language: spelling, plurals, abbreviations, syllables and words often confused",
+          "file": null
+        }
+      ]
+    },
+    {
+      "id": "nw",
+      "date": "2026-11-16",
+      "name": "NW",
+      "note": "Kwartaal 4 werkkaarte moet ook geleer word.",
+      "topics": [
+        {
+          "id": "nw-k3-e1",
+          "name": "Bronne van energie",
+          "file": null,
+          "pages": "Kw3 Eenheid 1"
+        },
+        {
+          "id": "nw-k3-e2",
+          "name": "Potensiële en kinetiese energie",
+          "file": null,
+          "pages": "Kw3 Eenheid 2"
+        },
+        {
+          "id": "nw-k3-e3",
+          "name": "Hitte-oordrag",
+          "file": null,
+          "pages": "Kw3 Eenheid 3"
+        },
+        {
+          "id": "nw-k3-e4",
+          "name": "Isolasie en energiebesparing",
+          "file": null,
+          "pages": "Kw3 Eenheid 4"
+        },
+        {
+          "id": "nw-k3-e5",
+          "name": "Energie-oordrag aan die omgewing",
+          "file": null,
+          "pages": "Kw3 Eenheid 5"
+        },
+        {
+          "id": "nw-k4-e1",
+          "name": "Die verhouding tussen die son en die aarde",
+          "file": null,
+          "pages": "Kw4 Eenheid 1"
+        },
+        {
+          "id": "nw-k4-e2",
+          "name": "Die verhouding tussen die maan en die aarde",
+          "file": null,
+          "pages": "Kw4 Eenheid 2"
+        },
+        {
+          "id": "nw-k4-e3",
+          "name": "Die historiese ontwikkeling van astronomie",
+          "file": null,
+          "pages": "Kw4 Eenheid 3"
+        }
+      ]
+    },
+    {
+      "id": "wisk2",
+      "date": "2026-11-17",
+      "name": "Wiskunde V2",
+      "bring": "Gradeboog en passer",
+      "note": "Temas 3, 4, 5, 9, 10, 23 en 24.",
+      "topics": [
+        {
+          "id": "wisk-reguitlyne",
+          "name": "Reguitlyne",
+          "file": null,
+          "pages": "Tema 3"
+        },
+        {
+          "id": "wisk-konstruksies",
+          "name": "Konstruksies",
+          "file": null,
+          "pages": "Tema 4"
+        },
+        {
+          "id": "wisk-meetkunde-2d",
+          "name": "Meetkunde van 2D-vorms",
+          "file": null,
+          "pages": "Tema 5"
+        },
+        {
+          "id": "wisk-oppervlakte-omtrek",
+          "name": "Oppervlakte en omtrek",
+          "file": null,
+          "pages": "Tema 9"
+        },
+        {
+          "id": "wisk-buite-oppervlakte-volume",
+          "name": "Buite-oppervlakte en volume",
+          "file": null,
+          "pages": "Tema 10"
+        },
+        {
+          "id": "wisk-datahantering",
+          "name": "Datahantering",
+          "file": null,
+          "pages": "Tema 23 en 24"
+        }
+      ]
+    },
+    {
+      "id": "drama",
+      "date": "2026-11-18",
+      "name": "Drama en Kuns",
+      "topics": [
+        {
+          "id": "drama-k3-e1",
+          "name": "Drama Kw3 Eenheid 1",
+          "file": null,
+          "pages": "bl. 109 tot 112"
+        },
+        {
+          "id": "drama-k3-e2",
+          "name": "Drama Kw3 Eenheid 2",
+          "file": null,
+          "pages": "bl. 113 tot 116"
+        },
+        {
+          "id": "drama-k3-e3",
+          "name": "Drama Kw3 Eenheid 3",
+          "file": null,
+          "pages": "bl. 117 tot 120"
+        },
+        {
+          "id": "drama-k3-e4",
+          "name": "Drama Kw3 Eenheid 4",
+          "file": null,
+          "pages": "bl. 121"
+        },
+        {
+          "id": "drama-k4-e2",
+          "name": "Drama Kw4 Eenheid 2",
+          "file": null,
+          "pages": "bl. 127 tot 133"
+        },
+        {
+          "id": "drama-k4-e4",
+          "name": "Drama Kw4 Eenheid 4",
+          "file": null,
+          "pages": "bl. 136"
+        },
+        {
+          "id": "kuns-elemente",
+          "name": "Elemente van Kuns",
+          "file": null,
+          "pages": "In die lêer"
+        }
+      ]
+    },
+    {
+      "id": "geo",
+      "date": "2026-11-19",
+      "name": "SW Geografie",
+      "bring": "Sakrekenaar",
+      "note": "Geen gevallestudies, aktiwiteite of kaarte nie. Bevolkingskonsepte: formuleblad en bewerkings.",
+      "topics": [
+        {
+          "id": "geo-138-144",
+          "name": "Geografie bl. 138 tot 144",
+          "file": null,
+          "pages": "bl. 138, 139, 140, 141, 142, 144"
+        },
+        {
+          "id": "geo-149-157",
+          "name": "Geografie bl. 149 tot 157",
+          "file": null,
+          "pages": "bl. 149, 150, 151, 153, 157"
+        },
+        {
+          "id": "geo-204-211",
+          "name": "Geografie bl. 204 tot 211",
+          "file": null,
+          "pages": "bl. 204, 205, 208, 209, 210, 211"
+        },
+        {
+          "id": "geo-214-222",
+          "name": "Geografie bl. 214 tot 222",
+          "file": null,
+          "pages": "bl. 214, 215, 218, 219, 220, 221, 222"
+        },
+        {
+          "id": "geo-bevolking",
+          "name": "Bevolkingskonsepte",
+          "file": null,
+          "pages": "Eenheid 1, formuleblad en bewerkings"
+        }
+      ]
+    },
+    {
+      "id": "lo",
+      "date": "2026-11-20",
+      "name": "LO",
+      "note": "Die vraestel kom hoofsaaklik uit die PowerPoints. Die handboek is net vir verwysing. Leer die notas in jou skrif.",
+      "topics": [
+        {
+          "id": "lo-middelmisbruik",
+          "name": "Middelmisbruik",
+          "file": null,
+          "pages": "Kw3 bl. 124 tot 129"
+        },
+        {
+          "id": "lo-omgewingsgesondheid",
+          "name": "Omgewingsgesondheid",
+          "file": null,
+          "pages": "Kw3 bl. 140 tot 144"
+        },
+        {
+          "id": "lo-loopbane",
+          "name": "Loopbane",
+          "file": null,
+          "pages": "Kw3 bl. 162 tot 175"
+        },
+        {
+          "id": "lo-maslow",
+          "name": "Maslow",
+          "file": null,
+          "pages": "Notas"
+        },
+        {
+          "id": "lo-dieet-faktore",
+          "name": "Faktore wat dieet beïnvloed",
+          "file": null,
+          "pages": "Kw4 bl. 198 tot 200"
+        },
+        {
+          "id": "lo-persoonlike-voeding",
+          "name": "Persoonlike voeding",
+          "file": null,
+          "pages": "Kw4 bl. 200 tot 207"
+        },
+        {
+          "id": "lo-voedselgroepe",
+          "name": "Voedselgroepe",
+          "file": null,
+          "pages": "Alle ekstra notas"
+        },
+        {
+          "id": "lo-siektes",
+          "name": "Algemene siektes, oorsake en behandeling",
+          "file": null,
+          "pages": "Kw4 bl. 210 tot 217"
+        }
+      ]
+    }
+  ]
+}

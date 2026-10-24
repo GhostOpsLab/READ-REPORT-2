@@ -1,0 +1,59 @@
+{
+  "sample": true,
+  "topic": "Gewone breuke",
+  "source": "Algemene Graad 7 voorbeeld. Moet vervang word met inhoud uit Jacques se handboek (Tema 6) nadat Pa dit goedgekeur het.",
+  "cards": [
+    {
+      "id": "c1",
+      "title": "Wat is 'n breuk?",
+      "body": ["'n Breuk is 'n deel van 'n geheel.", "Die onderste getal (noemer) sê in hoeveel gelyke dele die geheel verdeel is. Die boonste getal (teller) sê hoeveel dele ons het."],
+      "example": "3/4 beteken: die geheel is in 4 gelyke dele verdeel en ons het 3 daarvan."
+    },
+    {
+      "id": "c2",
+      "title": "Gelyke breuke en vereenvoudig",
+      "body": ["Breuke kan anders lyk maar dieselfde waarde hê.", "Om te vereenvoudig, deel die teller en die noemer deur dieselfde getal. Hou aan tot jy nie meer kan deel nie."],
+      "example": "6/8: deel albei deur 2, dan kry ons 3/4.\n1/2 = 2/4 = 4/8"
+    },
+    {
+      "id": "c3",
+      "title": "Breuke vergelyk",
+      "body": ["Om twee breuke te vergelyk, maak die noemers eerste dieselfde (gemene noemer). Vergelyk dan die tellers."],
+      "example": "2/3 en 3/5:\n2/3 = 10/15 en 3/5 = 9/15\n10/15 is groter, dus 2/3 is groter."
+    },
+    {
+      "id": "c4",
+      "title": "Optel en aftrek",
+      "body": ["Maak eers die noemers dieselfde. Tel of trek dan net die tellers af. Die noemer bly dieselfde."],
+      "example": "1/2 + 1/4 = 2/4 + 1/4 = 3/4\n3/4 - 1/3 = 9/12 - 4/12 = 5/12"
+    },
+    {
+      "id": "c5",
+      "title": "Vermenigvuldig en gemengde getalle",
+      "body": ["Om te vermenigvuldig: teller × teller en noemer × noemer. Vereenvoudig dan.", "'n Onegte breuk (teller groter as noemer) kan 'n gemengde getal word: deel die teller deur die noemer."],
+      "example": "2/3 × 3/5 = 6/15 = 2/5\n7/4: 7 ÷ 4 = 1 rest 3, dus 1 3/4"
+    }
+  ],
+  "questions": [
+    { "id": "q1", "q": "1/2 + 1/4 = ?", "options": ["3/4", "2/6", "1/6", "2/4"], "answer": "3/4",
+      "hint": "Maak die noemers dieselfde. 1/2 is dieselfde as 2/4.", "why": "1/2 = 2/4, dus 2/4 + 1/4 = 3/4.", "tags": ["c4"] },
+    { "id": "q2", "q": "Skryf 6/8 in sy eenvoudigste vorm.", "options": ["2/3", "3/4", "6/4", "1/2"], "answer": "3/4",
+      "hint": "Deel die teller en die noemer deur dieselfde getal.", "why": "Deel albei deur 2: 6 ÷ 2 = 3 en 8 ÷ 2 = 4, dus 3/4.", "tags": ["c2"] },
+    { "id": "q3", "q": "Watter breuk is die grootste?", "options": ["3/5", "2/3", "4/7", "1/2"], "answer": "2/3",
+      "hint": "Skakel almal om na desimale getalle, of gebruik 'n gemene noemer.", "why": "2/3 is ongeveer 0,67. 3/5 = 0,6, 4/7 is ongeveer 0,57 en 1/2 = 0,5.", "tags": ["c3"] },
+    { "id": "q4", "q": "3/4 - 1/3 = ?", "options": ["2/1", "5/12", "2/7", "1/12"], "answer": "5/12",
+      "hint": "Die kleinste gemene noemer van 4 en 3 is 12.", "why": "3/4 = 9/12 en 1/3 = 4/12, dus 9/12 - 4/12 = 5/12.", "tags": ["c4"] },
+    { "id": "q5", "q": "2/3 × 3/5 = ?", "options": ["5/8", "2/5", "6/8", "1/5"], "answer": "2/5",
+      "hint": "Vermenigvuldig teller met teller en noemer met noemer, vereenvoudig dan.", "why": "(2 × 3)/(3 × 5) = 6/15, en 6/15 = 2/5.", "tags": ["c5"] },
+    { "id": "q6", "q": "Skryf 7/4 as 'n gemengde getal.", "options": ["1 1/4", "1 3/4", "2 1/4", "3/4"], "answer": "1 3/4",
+      "hint": "Hoeveel keer pas 4 in 7? Wat bly oor?", "why": "7 ÷ 4 = 1 met 3 oor, dus 1 3/4.", "tags": ["c5"] },
+    { "id": "q7", "q": "Skryf 10/25 in sy eenvoudigste vorm.", "options": ["2/5", "5/12", "1/5", "5/2"], "answer": "2/5",
+      "hint": "Watter getal gaan in beide 10 en 25?", "why": "Deel albei deur 5: 10 ÷ 5 = 2 en 25 ÷ 5 = 5, dus 2/5.", "tags": ["c2"] },
+    { "id": "q8", "q": "Watter breuk is gelyk aan 1/2?", "options": ["4/8", "2/8", "4/6", "3/8"], "answer": "4/8",
+      "hint": "Is die teller die helfte van die noemer?", "why": "4 is die helfte van 8, dus 4/8 = 1/2.", "tags": ["c2"] },
+    { "id": "q9", "q": "Skryf 12/18 in sy eenvoudigste vorm.", "options": ["2/3", "6/9", "4/6", "3/2"], "answer": "2/3",
+      "hint": "Deel deur die grootste getal wat in albei gaan.", "why": "Deel albei deur 6: 12 ÷ 6 = 2 en 18 ÷ 6 = 3, dus 2/3. Die ander gelyke breuke (6/9 en 4/6) kan nog vereenvoudig word.", "tags": ["c2"] },
+    { "id": "q10", "q": "3/4 × 2/3 = ?", "options": ["1/2", "5/7", "6/7", "2/3"], "answer": "1/2",
+      "hint": "Vermenigvuldig teller met teller en noemer met noemer.", "why": "(3 × 2)/(4 × 3) = 6/12, en 6/12 = 1/2.", "tags": ["c5"] }
+  ]
+}
